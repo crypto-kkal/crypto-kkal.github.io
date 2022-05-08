@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StepN 회고 1 - 
+title: StepN 회고 - 6달 일기
 date: 2022-05-08 23:00:00 +0900
 categories: [Research]
 tags: [solana, nft, move2earn, stepn]
